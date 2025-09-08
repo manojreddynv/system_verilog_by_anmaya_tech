@@ -45,7 +45,7 @@ we learned :
 
 
 
-4️. Fork/Join (all, any & none)  
+4️. Task Fork/Join (all, any & none)  
 🔗 [Open in EDA Playground](https://edaplayground.com/x/ZwxW)
 
 We learned:
