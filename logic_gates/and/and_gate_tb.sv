@@ -1,7 +1,4 @@
-// Code your testbench here
-// or browse Examples
 `timescale 1ns/1ps
-
 module and_gate_tb;
 
     // Inputs
